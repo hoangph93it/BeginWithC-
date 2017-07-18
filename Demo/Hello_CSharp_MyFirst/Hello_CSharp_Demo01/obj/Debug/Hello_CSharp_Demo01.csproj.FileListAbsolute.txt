@@ -1,0 +1,5 @@
+D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.exe.config
+D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.exe
+D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.pdb
+D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.exe
+D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.pdb
