@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Hello_CSharp_Demo01.NewClass.Array.One__dimensional_array</StartupObject>
+    <StartupObject>Hello_CSharp_Demo01.NewClass.Inherit_Kethua_.AnimalTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,13 @@
     <Compile Include="NewClass\Array\One _dimensional_array.cs" />
     <Compile Include="NewClass\Class_Object_Instance\Class_Object_Instance.cs" />
     <Compile Include="NewClass\Class_Object_Instance\PersonTest.cs" />
+    <Compile Include="NewClass\Field\FieldInCSharpTest.cs" />
+    <Compile Include="NewClass\Field\FieldInCSharp.cs" />
+    <Compile Include="NewClass\Inherit%28Kethua%29\AnimalTest.cs" />
+    <Compile Include="NewClass\Inherit%28Kethua%29\Cat.cs" />
+    <Compile Include="NewClass\Inherit%28Kethua%29\My_Inherit.cs" />
+    <Compile Include="NewClass\Method\My_Method.cs" />
+    <Compile Include="NewClass\Method\My_Method_Test.cs" />
     <Compile Include="NewClass\MyClass\Continue_in_loop.cs" />
     <Compile Include="NewClass\MyClass\Break_in_loop.cs" />
     <Compile Include="NewClass\MyClass\Do_while_loop.cs" />
