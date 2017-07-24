@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Hello_CSharp_Demo01.NewClass.Inherit_Kethua_.AnimalTest</StartupObject>
+    <StartupObject>Hello_CSharp_Demo01.ThuaKeTrongCSharp.EpKieuCSharp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KeThua_DaHinh\Class_Constructor_Object.cs" />
+    <Compile Include="KeThua_DaHinh\PersonTest.cs" />
     <Compile Include="NewClass\Array\One _dimensional_array.cs" />
     <Compile Include="NewClass\Class_Object_Instance\Class_Object_Instance.cs" />
     <Compile Include="NewClass\Class_Object_Instance\PersonTest.cs" />
@@ -66,6 +68,12 @@
     <Compile Include="NewClass\MyClass\Myclass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThuaKeTrongCSharp\Animal.cs" />
+    <Compile Include="ThuaKeTrongCSharp\Cat.cs" />
+    <Compile Include="ThuaKeTrongCSharp\CatTest.cs" />
+    <Compile Include="ThuaKeTrongCSharp\EpKieuCSharp.cs" />
+    <Compile Include="ThuaKeTrongCSharp\Isoperator.cs" />
+    <Compile Include="ThuaKeTrongCSharp\Mouse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

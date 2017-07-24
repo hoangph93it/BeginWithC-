@@ -8,3 +8,4 @@ D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\He
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.pdb
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.exe
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.pdb
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.csprojResolveAssemblyReference.cache
