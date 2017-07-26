@@ -1,0 +1,5 @@
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\AbstractClassInterface\bin\Debug\AbstractClassInterface.dll
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\AbstractClassInterface\bin\Debug\AbstractClassInterface.pdb
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\AbstractClassInterface\obj\Debug\AbstractClassInterface.csprojResolveAssemblyReference.cache
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\AbstractClassInterface\obj\Debug\AbstractClassInterface.dll
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\AbstractClassInterface\obj\Debug\AbstractClassInterface.pdb

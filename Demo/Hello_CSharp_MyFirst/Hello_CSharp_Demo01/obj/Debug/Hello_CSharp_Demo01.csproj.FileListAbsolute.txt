@@ -4,8 +4,7 @@ D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo0
 D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.exe
 D:\C#\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.pdb
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.exe.config
-D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.exe
-D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.pdb
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.exe
 D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\bin\Debug\Hello_CSharp_Demo01.pdb
-D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.csprojResolveAssemblyReference.cache
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.exe
+D:\C#\BeginWithCSharp\Demo\Hello_CSharp_MyFirst\Hello_CSharp_Demo01\obj\Debug\Hello_CSharp_Demo01.pdb

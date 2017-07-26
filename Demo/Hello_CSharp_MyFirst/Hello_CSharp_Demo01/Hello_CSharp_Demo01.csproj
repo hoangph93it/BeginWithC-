@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Hello_CSharp_Demo01.ThuaKeTrongCSharp.EpKieuCSharp</StartupObject>
+    <StartupObject>Hello_CSharp_Demo01.Interface.CatTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClass\AbstractJob.cs" />
+    <Compile Include="AbstractClass\CSharpCoding.cs" />
+    <Compile Include="AbstractClass\JobCSharpDemo.cs" />
+    <Compile Include="Interface\Animal.cs" />
+    <Compile Include="Interface\Cat.cs" />
+    <Compile Include="Interface\CatTest.cs" />
+    <Compile Include="Interface\DrinkInterface.cs" />
+    <Compile Include="Interface\EatInterface.cs" />
+    <Compile Include="Interface\MyInterface.cs" />
     <Compile Include="KeThua_DaHinh\Class_Constructor_Object.cs" />
     <Compile Include="KeThua_DaHinh\PersonTest.cs" />
     <Compile Include="NewClass\Array\One _dimensional_array.cs" />
