@@ -49,6 +49,12 @@
     <Compile Include="AbstractClass\AbstractJob.cs" />
     <Compile Include="AbstractClass\CSharpCoding.cs" />
     <Compile Include="AbstractClass\JobCSharpDemo.cs" />
+    <Compile Include="AccessModifier\PrivateAccessModifier.cs" />
+    <Compile Include="AccessModifier\PrivateAccessTest.cs" />
+    <Compile Include="AccessModifier\ProtectedAccessTest.cs" />
+    <Compile Include="AccessModifier\ProtectedAccessModifier.cs" />
+    <Compile Include="AccessModifier\PublicAccessModifier.cs" />
+    <Compile Include="AccessModifier\PublicAccessModifierTest.cs" />
     <Compile Include="Interface\Animal.cs" />
     <Compile Include="Interface\Cat.cs" />
     <Compile Include="Interface\CatTest.cs" />
