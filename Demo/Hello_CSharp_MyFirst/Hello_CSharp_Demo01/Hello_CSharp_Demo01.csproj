@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Hello_CSharp_Demo01.Property.PropertyTest</StartupObject>
+    <StartupObject>Hello_CSharp_Demo01.DelegrateAndEvent.FomulaDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,34 @@
     <Compile Include="AccessModifier\ProtectedAccessModifier.cs" />
     <Compile Include="AccessModifier\PublicAccessModifier.cs" />
     <Compile Include="AccessModifier\PublicAccessModifierTest.cs" />
+    <Compile Include="DateTimeCSharp\DateTimePropertiesExample.cs" />
+    <Compile Include="DateTimeCSharp\DateTimeToString.cs" />
+    <Compile Include="DateTimeCSharp\NowDateTime.cs" />
+    <Compile Include="DelegrateAndEvent\DelegateCaculate.cs" />
+    <Compile Include="DelegrateAndEvent\DelegrateDemo.cs" />
+    <Compile Include="DelegrateAndEvent\FomulaDemo.cs" />
+    <Compile Include="DelegrateAndEvent\FuncReturnFunc.cs" />
+    <Compile Include="DelegrateAndEvent\StringDelegrate.cs" />
+    <Compile Include="DelegrateAndEvent\StringDelegrateDemo.cs" />
+    <Compile Include="Enum\Enumeration.cs" />
+    <Compile Include="Enum\EnumTestJob.cs" />
+    <Compile Include="Exception\CheckAge.cs" />
+    <Compile Include="Exception\Exception.cs" />
+    <Compile Include="Exception\AgeException.cs" />
+    <Compile Include="Exception\TestAge01.cs" />
+    <Compile Include="Exception\TestAge02.cs" />
+    <Compile Include="FileAndFolder\DeleteFile.cs" />
+    <Compile Include="FileAndFolder\RenameFile.cs" />
+    <Compile Include="Generic\GenericInterfaceImpl.cs" />
+    <Compile Include="Generic\InterfaceGenerics.cs" />
+    <Compile Include="Generic\KeyValue.cs" />
+    <Compile Include="Generic\KeyValueDemo.cs" />
+    <Compile Include="Generic\KeyValueInfo.cs" />
+    <Compile Include="Generic\KeyValueInfoDemo.cs" />
+    <Compile Include="Generic\PhoneKeyValueInherit.cs" />
+    <Compile Include="Generic\PhoneKeyValueInheritDemo.cs" />
+    <Compile Include="Generic\StringAndValueEntry.cs" />
+    <Compile Include="Generic\StringAndValueEntryDemo.cs" />
     <Compile Include="Interface\Animal.cs" />
     <Compile Include="Interface\Cat.cs" />
     <Compile Include="Interface\CatTest.cs" />
@@ -63,6 +91,7 @@
     <Compile Include="Interface\MyInterface.cs" />
     <Compile Include="KeThua_DaHinh\Class_Constructor_Object.cs" />
     <Compile Include="KeThua_DaHinh\PersonTest.cs" />
+    <Compile Include="Multithreading\Multithreading.cs" />
     <Compile Include="NewClass\Array\One _dimensional_array.cs" />
     <Compile Include="NewClass\Class_Object_Instance\Class_Object_Instance.cs" />
     <Compile Include="NewClass\Class_Object_Instance\PersonTest.cs" />
@@ -86,6 +115,8 @@
     <Compile Include="Property\AbstractInherit.cs" />
     <Compile Include="Property\AbstractProperty.cs" />
     <Compile Include="Property\CSharpProperty.cs" />
+    <Compile Include="Property\PropertyInterface.cs" />
+    <Compile Include="Property\PropertyInterfaceInherit.cs" />
     <Compile Include="Property\PropertyNonAccess.cs" />
     <Compile Include="Property\PropertyTest.cs" />
     <Compile Include="StringVaStringBuilder\ConcatInString.cs" />
@@ -95,6 +126,11 @@
     <Compile Include="StringVaStringBuilder\ReplaceInString.cs" />
     <Compile Include="StringVaStringBuilder\StringBuilderDemo.cs" />
     <Compile Include="StringVaStringBuilder\SubString.cs" />
+    <Compile Include="Structure\ClassAndStructureTest.cs" />
+    <Compile Include="Structure\MyClass.cs" />
+    <Compile Include="Structure\MyStructue.cs" />
+    <Compile Include="Structure\StructureEmployee.cs" />
+    <Compile Include="Structure\StructureTest.cs" />
     <Compile Include="ThuaKeTrongCSharp\Animal.cs" />
     <Compile Include="ThuaKeTrongCSharp\Cat.cs" />
     <Compile Include="ThuaKeTrongCSharp\CatTest.cs" />
